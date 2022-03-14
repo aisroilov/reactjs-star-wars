@@ -1,0 +1,19 @@
+.card-title{
+    margin: 10px 10px;
+    color: rgb(26, 25, 25);
+}
+
+.mt-10 {
+    margin-top: 100px;
+}
+
+.spinner {
+    position: absolute;
+    top:50%;
+    left:50%;
+}
+
+.bg-white {
+    background-color: yellow;
+}
+
